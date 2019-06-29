@@ -2,8 +2,6 @@ import React from 'react';
 
 
 const Todo = ({ todo, index, completeTodo, deleteTodo }) => {
-
-
   return (
 	 <div
 		className="todo"
